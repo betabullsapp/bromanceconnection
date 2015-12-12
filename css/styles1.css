@@ -551,6 +551,11 @@ __________________________________________ */
 .rlAccordion > h3 > span {
   float: right;
   font-family: arial, serif, sans-serif;
+  cursor:pointer;
+}
+h3{
+
+cursor:pointer;
 }
 .rlAccordion > h3 + div {
   display: none;
